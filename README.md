@@ -34,5 +34,7 @@ A first approach to deal with imbalanced data is to balance it by discarding the
 
 Among these algorithms, the extreme gradient-boosted (XGBoost) algorithm used below slightly outperforms others.
 
+Reference how to use metrics: https://medium.com/mlearning-ai/credit-card-fraud-detection-2527ca04c3de
+
 ![image](https://user-images.githubusercontent.com/83870939/225279073-c82e7e72-d8cb-499f-977f-6484bc02100b.png)
 
